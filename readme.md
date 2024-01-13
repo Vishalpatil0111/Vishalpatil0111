@@ -1,7 +1,7 @@
 <h1 align="center" >Hi <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm , Vishal</h1>
-<h3 align="center">Enthusiast about Coding and Technology</h3>                  
+<h3 align="center">| Data science and AI enthusiast 🤖 |</h3>                  
 
-Computer science student 🖥️ | Data science and AI enthusiast 🤖.<br>Currently learning about deep learning and Ai 🌐.<br>Passionate about exploring the realms of data science 💡.<br>Ask me about data science and Ai🧠<br> 
+Computer science student 🖥️ .<br>Currently learning about deep learning and Ai 🌐.<br>Passionate about exploring the realms of data science 💡.<br>Ask me about data science and Ai🧠<br> 
 
 
 ## 🌐 Connect With me:
