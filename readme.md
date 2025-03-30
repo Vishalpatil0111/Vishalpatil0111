@@ -1,4 +1,4 @@
-# 👋 Hi <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Vishal 🚀
+#  Hi <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Vishal 🚀
 
 <img src="https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif" width="100" alt="Luffy Smile"/>
 
