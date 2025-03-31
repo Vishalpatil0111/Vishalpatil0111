@@ -1,5 +1,3 @@
-# 💥 Hi <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Vishal 🚀
-
 <p align="center">
   <img src="https://github.com/Vishalpatil0111/bannerreadme/blob/main/onepbanner.gif" alt="Vishal Patil Banner"/>
 </p>
