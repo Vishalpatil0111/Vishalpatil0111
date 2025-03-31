@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://github.com/Vishalpatil0111/bannerreadme/blob/main/onepbanner.gif" alt="Vishal Patil Banner"/>
 </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Vishalpatil0111&color=brightgreen" alt="Profile Views"/>
+</p>
 
+# 💥 Hi!, I'm Vishal 🚀  
 ## 💪 About Me:
 💪 Currently working on **MERN & AI**  
 🌊 Looking to collaborate on **Web Applications & Freelancing**  
@@ -9,10 +13,20 @@
 🏴‍☠️ Ask me about **AI Agents, Web Development & Design**  
 
 ## 🌐 Connect With Me:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vishalpatil3344)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalpatil0111)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ivishalpatil01)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishall.patil0111@gmail.com)
+<p align="center">
+  <a href="https://discord.gg/vishalpatil3344">
+    <img src="https://img.icons8.com/ios-filled/50/5865F2/discord.png" alt="Discord" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/vishalpatil0111">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://x.com/ivishalpatil01">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X" width="40"/>
+  </a>
+  <a href="mailto:vishall.patil0111@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Gmail" width="40"/>
+  </a>
+</p>
 
 ---
 
@@ -31,18 +45,11 @@
 
 ---
 
-## 🏴‍☠️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vishalpatil0111&theme=dark&hide_border=true&include_all_commits=false&count_private=true)   
+## 🏴‍☠️ GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalpatil0111&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  
 
 ---
 ## 🏴‍☠️ Fancy Snake Contribution Graph:
 ![Snake animation](https://raw.githubusercontent.com/Vishalpatil0111/bannerreadme/output/github-contribution-grid-snake.svg)
-
-
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=Vishalpatil0111&color=brightgreen)
-
 
 
