@@ -37,7 +37,8 @@
 
 ---
 ## 🏴‍☠️ Fancy Snake Contribution Graph:
-![Snake animation](https://github.com/Vishalpatil0111/Vishalpatil0111/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Vishalpatil0111/bannerreadme/output/github-contribution-grid-snake.svg)
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Vishalpatil0111&color=brightgreen)
