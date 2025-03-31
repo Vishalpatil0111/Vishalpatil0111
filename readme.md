@@ -47,7 +47,7 @@
 ---
 ## 🏆 LeetCode Stats:
 ![LeetCode Contribution Graph](https://leetcard.jacoblin.cool/Vishalpatil0111?theme=dark&font=Karma&ext=heatmap)
-(https://leetcode.com/vishalpatil0111/)
+
 
 
 ## 🏴‍☠️ GitHub Stats: 
