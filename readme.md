@@ -45,6 +45,8 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
 
 ---
+## 🏆 LeetCode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Vishalpatil0111?theme=dark&font=Karma&ext=activity)](https://leetcode.com/vishalpatil0111/)
 
 ## 🏴‍☠️ GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalpatil0111&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  
