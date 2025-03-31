@@ -13,20 +13,21 @@
 🏴‍☠️ Ask me about **AI Agents, Web Development & Design**  
 
 ## 🌐 Connect With Me:
-<p align="start">
-  <a  href="https://discord.gg/vishalpatil3344">
-    <img src="https://img.icons8.com/ios-filled/50/5865F2/discord.png" alt="Discord" width="50"/>
+<p align="center">
+  <a href="https://discord.gg/vishalpatil3344">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/discord.png" alt="Discord" width="40" style="background:#5865F2; border-radius:50%; padding:5px;"/>
   </a>
   <a href="https://linkedin.com/in/vishalpatil0111">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="50"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="40" style="background:#0A66C2; border-radius:50%; padding:5px;"/>
   </a>
   <a href="https://x.com/ivishalpatil01">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X" width="50"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" alt="X" width="40" style="background:#000000; border-radius:50%; padding:5px;"/>
   </a>
   <a href="mailto:vishall.patil0111@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Gmail" width="50"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Gmail" width="40" style="background:#D14836; border-radius:50%; padding:5px;"/>
   </a>
 </p>
+
 
 ---
 
