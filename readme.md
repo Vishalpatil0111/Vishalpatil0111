@@ -1,19 +1,20 @@
-#  Hi <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Vishal 🚀
 
-<img src="https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif" width="100" alt="Luffy Smile"/>
+
+<p align="center">
+  <img src="https://github.com/Vishalpatil0111/bannerreadme/blob/main/banner.gif" alt="Vishal Patil Banner"/>
+</p>
 
 ## 🔥 About Me:
-🔭 Currently working on **MERN & AI**  
-👯 Looking to collaborate on **Web Applications & Freelancing**  
+🌟 Currently working on **MERN & AI**  
+👥 Looking to collaborate on **Web Applications & Freelancing**  
 🌱 Learning **Three.js & Express**  
 💬 Ask me about **AI Agents, Web Development & Design**  
-⚡ Fun fact: **Anime Fan** 🎌
 
 ## 🌐 Connect With Me:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20)](https://discord.gg/vishalpatil3344)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://linkedin.com/in/vishalpatil0111)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20)](https://x.com/ivishalpatil01)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:vishall.patil0111@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vishalpatil3344)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalpatil0111)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ivishalpatil01)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishall.patil0111@gmail.com)
 
 ---
 
@@ -33,15 +34,24 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vishalpatil0111&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Vishalpatil0111&theme=blue-green&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalpatil0111&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=Vishalpatil0111&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Vishalpatil0111&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalpatil0111&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vishalpatil0111&icon=3&color=6)](https://visitcount.itsvg.in)
+## 🌟 LeetCode Coding Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Vishalpatil0111?theme=dark&font=Karma)](https://leetcode.com/Vishalpatil0111)
+
+---
+## 🥐 Wakatime Coding Stats:
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vishalpatil0111&theme=dark)](https://github.com/Vishalpatil0111)
+
+---
+## 🐍 Fancy Snake Contribution Graph:
+![Snake animation](https://github.com/Vishalpatil0111/Vishalpatil0111/blob/output/github-contribution-grid-snake.svg)
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=Vishalpatil0111&color=brightgreen)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
