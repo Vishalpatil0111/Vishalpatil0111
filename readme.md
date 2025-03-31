@@ -1,14 +1,14 @@
-
+# 💥 Hi <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Vishal 🚀
 
 <p align="center">
-  <img src="https://github.com/Vishalpatil0111/bannerreadme/blob/main/banner.gif" alt="Vishal Patil Banner"/>
+  <img src="https://github.com/Vishalpatil0111/bannerreadme/blob/main/onepbanner.gif" alt="Vishal Patil Banner"/>
 </p>
 
-## 🔥 About Me:
-🌟 Currently working on **MERN & AI**  
-👥 Looking to collaborate on **Web Applications & Freelancing**  
-🌱 Learning **Three.js & Express**  
-💬 Ask me about **AI Agents, Web Development & Design**  
+## 💪 About Me:
+💪 Currently working on **MERN & AI**  
+🌊 Looking to collaborate on **Web Applications & Freelancing**  
+🏰 Learning **Three.js & Express**  
+🏴‍☠️ Ask me about **AI Agents, Web Development & Design**  
 
 ## 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vishalpatil3344)
@@ -33,25 +33,16 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vishalpatil0111&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Vishalpatil0111&theme=dark&hide_border=true)  
+## 🏴‍☠️ GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vishalpatil0111&theme=dark&hide_border=true&include_all_commits=false&count_private=true)   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalpatil0111&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  
 
 ---
-## 🌟 LeetCode Coding Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Vishalpatil0111?theme=dark&font=Karma)](https://leetcode.com/Vishalpatil0111)
-
----
-## 🥐 Wakatime Coding Stats:
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vishalpatil0111&theme=dark)](https://github.com/Vishalpatil0111)
-
----
-## 🐍 Fancy Snake Contribution Graph:
+## 🏴‍☠️ Fancy Snake Contribution Graph:
 ![Snake animation](https://github.com/Vishalpatil0111/Vishalpatil0111/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Vishalpatil0111&color=brightgreen)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
